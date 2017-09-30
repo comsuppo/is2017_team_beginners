@@ -17,6 +17,8 @@
 ###### テキスト投稿サイトを作る
 ---
 ##### 超入門！サルでもわかるGitPitchの使い方
+***
+　ほほぉ～～なんと！『htmlタグ』も使用できるんですね！
 ---
 ≪文字入力≫
 ***
@@ -27,34 +29,41 @@
 * ＜h2＞➡＃を2個
 * ＜h6＞➡＃を6個 記入する
 ---
-≪行間を開ける≫
+≪改行≫
 ***
-正規のほうほうではないけど・・・
-###### 　
-* ＃を6個記述の後に＜半角空白＞＜全角空白＞で改行することで見かけ上、行間を空ける事ができる
+　htmlタグで ＜br＞ を入れる
+ <br><br>
+≪箇条書き≫
+***
+* 半角で『＊＋半角スペース』を文字の前に付ける
+ <br><br>
+≪水平線≫
+***
+* 半角で＊＊＊(半角＊を3個)を記入
 ---
 GitPitch の設定
 ***
-*「GitHub」のフォルダにnew file で PITCHME.yaml を作り、この中に設定文を記述する
+*「GitHub」のフォルダにnew file で PITCHME.yaml を作り、その中に設定文を記述する
 ---
 * スライド番号を入れる<br>
-  slide-number: true
-* フッターに文字を入れる
+  slide-number: true<br>
+* フッターに文字を入れる<br>
 　footnote : "© IS塾2017 Teamビギナーズ"
 ---
 * 背景画の挿入
 ***
-　　background : 画像ファイルのパスとファイル名(URLでフルパス指定でも可)
+　　background : 画像ファイルのパスとファイル名<br>
+  (URLでフルパス指定でも可)
 ---
 * 画面遷移のアニメーション
 ***
-　　transition : none　(初期状態、効果なし)
-　　transition : convex  　(右から左へキューブ回転)
-　　transition : concave　(右から左へスライド)
-　　transition : default　(右から左へサークル回転)
-　　transition : fade　(フェード)
-　　transition : slide　(右から左へスライド)
-　　transition : zoom　(ズームインしながら後に表示)
+* transition : none　(初期状態、効果なし)<br>
+* transition : convex　(右から左へキューブ回転)<br>
+* transition : concave　(右から左へスライド)<br>
+* transition : default　(右から左へサークル回転)<br>
+* transition : fade　(フェード)<br>
+* transition : slide　(右から左へスライド)<br>
+* transition : zoom　(ズームインしながら後に表示)
 ---
 
 ---

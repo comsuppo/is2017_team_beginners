@@ -66,7 +66,7 @@ Top画面担当(index.thml)＜鈴木基彦＞の感想
 ---
 GitPitch の設定
 ***
-*「GitHub」のフォルダにnew file で PITCHME.yaml を作り、その中に設定文を記述する
+* 『GitHub』のフォルダにnew file で PITCHME.yaml を作り、その中に設定文を記述する
 ---
 * スライド番号を入れる<br>
   slide-number: true<br>

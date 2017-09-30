@@ -1,8 +1,8 @@
 ###### ■■ Presents By ISjuku2017 Team beginners ■■
-
+### 　
 ## こんにちは！ ３人合わせて
 ## Team ビギナーズ です！
- 
+### 　
 ###### この発表は≪ GitPitch ≫を使用しています
 ---
 ## チームの紹介

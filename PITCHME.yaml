@@ -1,6 +1,6 @@
 background : http://cdn.wonderfulengineering.com/wp-content/uploads/2014/09/white-wallpapers.jpeg
 
-transition : default
+transition : fade
 slide-number: true
 footnote : "© IS塾2017 Teamビギナーズ"
 

@@ -1,5 +1,5 @@
-■ Presents By IS塾2017 Team beginners
-# こんにちは！　３人合わせて
+■ Presents By ISjuku2017 Team beginners
+## こんにちは！ ３人合わせて
 ## Teamビギナーズ です！
 この発表は≪ GitPitch ≫を使用しています
 ---

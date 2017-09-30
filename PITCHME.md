@@ -29,7 +29,18 @@
 ###### 【行間を開ける】
 ＃を6個記述の後に＜半角空白＞＜全角空白＞で改行することで見かけ上、行間を空ける事ができる
 ---
-
+GitPitch の設定
+*「GitHub」のフォルダにnew file で PITCHME.yaml を作り、この中に設定文を記述する
+* 背景画の挿入
+　　background : 画像ファイルのパスとファイル名(URLでフルパス指定でも可)
+* 画面遷移のアニメーション
+　　transition : none　(初期状態、効果なし)
+　　transition : convex  　(右から左へキューブ回転)
+　　transition : concave　(右から左へスライド)
+　　transition : default　(右から左へサークル回転)
+　　transition : fade　(フェード)
+　　transition : slide　(右から左へスライド)
+　　transition : zoom　(ズームインしながら後に表示)
 ---
 
 ---

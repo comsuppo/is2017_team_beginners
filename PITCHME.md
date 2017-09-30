@@ -88,5 +88,5 @@ GitPitch の設定
 * transition : slide　(右から左へスライド)<br>
 * transition : zoom　(ズームインしながら後に表示)
 ---
-
+# 終わり。
 ---

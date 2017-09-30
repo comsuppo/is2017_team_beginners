@@ -1,16 +1,17 @@
- is塾2017 team beginners
- こんにちは！　３人合わせて
- team beginners です！
-# is塾2017 team beginners
-## こんにちは！　３人合わせて
-### team beginners です！
-
+■ Presents By IS塾2017 Team beginners
+# こんにちは！　３人合わせて
+## Teamビギナーズ です！
+この発表は≪ GitPitch ≫を使用しています
 ---
-
-
-### 2枚目のスライド
-
-
+## チームの紹介
+# チーム名
+　　　Teamビギナーズ
+# メンバー
+　　　小菅李音
+　　　鈴木基彦
+　　　舛澤　知
+# 演習テーマ
+　　　テキスト投稿サイトを作る
 ---
 
 

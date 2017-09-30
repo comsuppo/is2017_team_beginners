@@ -1,8 +1,6 @@
-# is2017_team_beginners
-### こんにちは！
-### ３人合わせて　team_beginners です！
-
-
+# is塾2017 team beginners
+## こんにちは！　３人合わせて
+### team beginners です！
 
 ---
 

@@ -37,8 +37,8 @@ GitPitch の設定
 ***
 *「GitHub」のフォルダにnew file で PITCHME.yaml を作り、この中に設定文を記述する
 ---
-* スライド番号を入れる
-  slide-number: true
+* スライド番号を入れる<br>
+  slide-number: true
 * フッターに文字を入れる
 　footnote : "© IS塾2017 Teamビギナーズ"
 ---
